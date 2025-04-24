@@ -1,0 +1,30 @@
+       eth0       
+ KB/s in  KB/s out
+    0.08      0.09
+       eth0       
+ KB/s in  KB/s out
+  355.65     28.24
+       eth0       
+ KB/s in  KB/s out
+  600.37     41.60
+       eth0       
+ KB/s in  KB/s out
+ 2069.41     68.40
+       eth0       
+ KB/s in  KB/s out
+ 2077.77    117.09
+       eth0       
+ KB/s in  KB/s out
+   75.29   1385.40
+       eth0       
+ KB/s in  KB/s out
+   72.90   1319.21
+       eth0       
+ KB/s in  KB/s out
+    3.16      4.32
+       eth0       
+ KB/s in  KB/s out
+    0.28      0.14
+       eth0       
+ KB/s in  KB/s out
+    0.19      0.16
