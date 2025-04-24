@@ -1,0 +1,57 @@
+===== UDP SCAN: 2025-04-24_04-59-56 =====
+Ip/Domain: google.com
+UDP Port range: 75-95
+--------------------------------
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-04-24 04:59 EDT
+Nmap scan report for google.com (142.251.34.46)
+Host is up (0.00022s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:4012:814::200e
+rDNS record for 142.251.34.46: qro01s28-in-f14.1e100.net
+
+PORT   STATE         SERVICE
+75/udp open|filtered priv-dial
+76/udp open|filtered deos
+77/udp open|filtered priv-rje
+78/udp open|filtered vettcp
+79/udp open|filtered finger
+80/udp open|filtered http
+81/udp open|filtered hosts2-ns
+82/udp open|filtered xfer
+83/udp open|filtered mit-ml-dev
+84/udp open|filtered ctf
+85/udp open|filtered mit-ml-dev
+86/udp open|filtered mfcobol
+87/udp open|filtered unknown
+88/udp open|filtered kerberos-sec
+89/udp open|filtered su-mit-tg
+90/udp open|filtered dnsix
+91/udp open|filtered mit-dov
+92/udp open|filtered npp
+93/udp open|filtered dcp
+94/udp open|filtered objcall
+95/udp open|filtered supdup
+
+Nmap done: 1 IP address (1 host up) scanned in 2.94 seconds
+Open UDP ports on google.com: 75/udp
+76/udp
+77/udp
+78/udp
+79/udp
+80/udp
+81/udp
+82/udp
+83/udp
+84/udp
+85/udp
+86/udp
+87/udp
+88/udp
+89/udp
+90/udp
+91/udp
+92/udp
+93/udp
+94/udp
+95/udp
+No closed UDP ports found on google.com.
+================================
